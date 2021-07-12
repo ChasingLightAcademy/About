@@ -1,4 +1,4 @@
-# About XLU/关于XLU
+# About XLA/关于XLA
 The project is not meme.   
 这不是迷因！  
   
