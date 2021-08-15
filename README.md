@@ -8,3 +8,7 @@ Creating this project is in order to helping XYN(Xiao Yao Niang) to learn life s
 ## 报名
 Under constructing.  
 正在开发中。  
+
+## 联系
+QQ：861746776
+TG：https://t.me/joinchat/9EgJYWgXKclhZTFk
