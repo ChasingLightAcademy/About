@@ -1,14 +1,12 @@
-# About XLA/关于XLA
-The project is not meme.   
+# About / 关于
+The project is not a meme.   
 这不是迷因！  
   
-Creating this project is in order to helping XYN(Xiao Yao Niang) to learn life skill.   
-创建这个项目是为了帮助小药娘学会一些生活技能。  
+Creating this project is to help Transgender people and other vulnerable to learn life skills.  
+创建这个项目是为了帮助跨性别者等弱势群体学会一些生活技能。  
   
 ## 报名
-Under constructing.  
-正在开发中。  
+暂时使用的是 Github Issues.  
 
 ## 联系
-QQ：861746776  
-TG：https://t.me/joinchat/9EgJYWgXKclhZTFk  
+WIP.
