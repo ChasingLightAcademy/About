@@ -20,7 +20,7 @@ body:
       description: 联系方式，将被用于发布部分通知/邮件列表等。
     validations:
       required: true
-  - type: markdown
+  - type: textarea
     attributes:
       label: 想要学习的是？
       description: 用于我们提供合适的教程。
