@@ -10,3 +10,6 @@ Creating this project is to help Transgender people and other vulnerable to lear
 
 ## 联系
 WIP.
+
+## 吉祥物
+C10s强强！[Coelacanthus](https://github.com/CoelacanthusHex)
