@@ -1,6 +1,6 @@
 ---
 name: 入园申请表
-description: 签订契约，成为魔法少女吧！
+about: 签订契约，成为魔法少女吧！
 title: "【入园申请】<此处填写你的名字>"
 labels: 入园申请
 assignees:
