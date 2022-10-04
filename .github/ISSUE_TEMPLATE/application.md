@@ -1,4 +1,4 @@
----
+# Ver: 1.1.0
 name: 入园申请表
 about: 签订契约，成为魔法少女吧！
 title: "【入园申请】<此处填写你的名字>"
@@ -26,7 +26,3 @@ body:
       description: 用于我们提供合适的教程。
     validations:
       required: true
----
-
-<!-- Ver 1.0.0 -->
-<!-- 请勿修改这一行上面的内容 -->
